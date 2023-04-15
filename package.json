@@ -1,5 +1,5 @@
 {
-  "name": "node-authentication",
+  "name": "authentication",
   "main": "server.js",
   "scripts": {
     "start": "node ./server"
@@ -16,5 +16,11 @@
     "mysql": "^2.7.0",
     "passport": "^0.2.2",
     "passport-local": "^1.0.0"
-  }
+  },
+  "description": "Code for the entire scotch.io tutorial series: Complete Guide to Node Authentication with MongoDB",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

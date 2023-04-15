@@ -3,10 +3,10 @@
 module.exports = {
     'connection': {
         'host': 'localhost',
-        'port': '3307',
-        'user': 'pos-user',
-        'password': 'pos'
+        'user': 'root',
+        'password': '',
+        'dialect' : 'mysql'
     },
-    'database': 'test_db',
+    'database': 'smkn1abang',
     'users_table': 'users'
 };
